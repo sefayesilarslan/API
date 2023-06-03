@@ -10,7 +10,7 @@
 
 
     //PUT İŞLEMİ İLE KAYDI GÜNCELLEDİK
-    //$veriler = array("token" => $token, "adsoyad" => "Sultan", "tckimlik" => "999999", "adres" => "Merkez - İstanbul", "id" => "2");
+    //$veriler = array("token" => $token, "adsoyad" => "Sultan", "tckimlik" => "999999", "adres" => "Kadıköy - İstanbul", "id" => "2");
 
     //DELETE İŞLEMİ İLE KAYDI SİDİK
  	//$veriler = array("token" => $token, "id" => "6");
